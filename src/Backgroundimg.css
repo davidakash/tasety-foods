@@ -1,0 +1,29 @@
+.container1{
+    background-image:url( "https://preview.colorlib.com/theme/liquorstore/images/bg_2.jpg.webp");
+    background-position:center;
+    /* padding: 400px;  */
+    background-repeat: no-repeat;
+    width:auto;
+    height: 700px;
+    position: relative;
+    background-size: cover;
+}
+p{
+    font-family:'Times New Roman', Times, serif;
+    color:gray;
+    text-align: center;
+    font-weight: 400;
+    justify-content: center;
+    background-color: #fff;
+    font-size: 20px;
+    margin-top: 80;
+}
+h1{
+    font-weight: 800;
+    font-size: 30px;
+    position: relative;
+    text-transform: uppercase;
+    display:inline-block;
+    padding-top: 5px;
+    margin-left: 60px;
+}
