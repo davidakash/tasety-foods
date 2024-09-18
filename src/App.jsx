@@ -1,10 +1,7 @@
 // import Navbar from './Navbar'
-import Backgroundimg from './Backgroundimg'
-import Drink from '../Drink'
-import Line from '../Line'
-import Ddpics from '../Ddpics'
-import Bck from '../Bck'
-import Recent from '../Recent'
+import Signin from '../Signin'
+import Home from './Home'
+import { BrowserRouter,Routes,Route } from 'react-router-dom'
 // import './App.css'
 
 function App() {
@@ -13,12 +10,20 @@ function App() {
   return (
     <>
       {/* <Navbar /> */}
-      <Backgroundimg /><br /><br /><br />
-      <Drink/><br /><br /><br /><br /><br />
-      <Line/><br /><br />
-      <Ddpics/><br /><br /><br />
-      <Bck/><br /><br /><br />
-      <Recent/>
+     <BrowserRouter>
+     <Routes>
+    <Route path='/' element={<Signin/>}></Route>
+    <Route path='/Home' element={ <Home/>}></Route>
+
+
+     </Routes>
+     </BrowserRouter>
+
+
+
+
+     
+      
     </>
   )
 }

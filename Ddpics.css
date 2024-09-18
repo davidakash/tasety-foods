@@ -1,0 +1,33 @@
+.img{
+    border:10px solid gray;
+    /* box-shadow:silver ; */
+    border-radius: 20px;
+    background-position: center;
+    background-image: url("https://media.istockphoto.com/id/504754220/photo/cocktails.jpg?s=612x612&w=0&k=20&c=NxIzGT-LbUS0BAPoCMDY3mEp96AnIxxldbWmFMeeD-A=")
+    
+}
+#bb4{
+    font-weight: 700;
+}
+#bb1{
+    background-color:green;
+    font-weight: 900;
+    border-radius: 5px;
+    
+}
+#bb2{
+    background-color: red;
+    font-weight: 900;
+    border-radius: 5px;
+}
+#bb3{
+    background-color: chocolate;
+    border-radius: 10px;
+    font-weight: bolder;
+    font-style: italic;
+}
+#hh{
+    background-color:lightsalmon;
+    /* border-radius: 10px; */
+    border: 5px solid lightslategrey;
+}

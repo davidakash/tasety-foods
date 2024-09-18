@@ -3,20 +3,18 @@
     background-position:center;
     /* padding: 400px;  */
     background-repeat: no-repeat;
-    width:auto;
     height: 700px;
     position: relative;
     background-size: cover;
+    color:gray;
 }
 p{
     font-family:'Times New Roman', Times, serif;
-    color:gray;
+    color:lightslategrey;
     text-align: center;
-    font-weight: 400;
+    font-weight:900;
+    /* padding: 230px; */
     justify-content: center;
-    background-color: #fff;
-    font-size: 20px;
-    margin-top: 80;
 }
 h1{
     font-weight: 800;
@@ -26,4 +24,13 @@ h1{
     display:inline-block;
     padding-top: 5px;
     margin-left: 60px;
+}
+
+.aa{
+background-color:black;
+color: white;
+    
+}
+#bb{
+    color: white;
 }

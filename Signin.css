@@ -1,0 +1,33 @@
+.back {
+    background-position: cover;
+    background-image: url("https://assets.epicurious.com/photos/604a708b69c3abd3cdf3ba52/16:9/w_1600,c_limit/BestWhiskeys_HERO_03102021_0787_VOG_final.jpg");
+    background-repeat: no-repeat;
+    padding: 50px;
+    width: 600px;
+    height: 100vh;
+    justify-content: center;
+
+}
+
+.bb {
+    margin-bottom: 10px;
+    margin-left: 550px;
+    justify-content:space-around;
+    border-radius: 10px;
+    border: 5px solid;
+    border-color: burlywood;
+    box-shadow: peachpuff;
+    
+}
+
+.cc {
+    margin-left: 650px;
+    text-align: center; 
+    border-radius: 10px;
+    border: 5px solid;
+    border-radius: 10px ;
+    border-color: burlywood;
+    box-shadow: peachpuff;
+    font-style:italic;
+    font-weight: 700;
+}

@@ -10,8 +10,7 @@ function Recent() {
     }, {
         img: "https://preview.colorlib.com/theme/liquorstore/images/image_3.jpg.webp",
     }, {
-        img: "https://preview.colorlib.com/theme/liquorstore/images/image_4.jpg.webp",
-        
+        img: "https://preview.colorlib.com/theme/liquorstore/images/image_4.jpg.webp",  
     }
     ])
 

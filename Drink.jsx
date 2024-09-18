@@ -4,7 +4,7 @@ function Drink() {
             <section className="container">
                 <div className="row justify-content-center align-items-center">
                     <div className="col-md-6 ">
-                        <img height="500px" src="https://preview.colorlib.com/theme/liquorstore/images/about.jpg.webp" alt="" />
+                        <img style={{border:'10px double black'}} height="500px" src="https://preview.colorlib.com/theme/liquorstore/images/about.jpg.webp" alt="" />
                     </div>
                     <div className="col-md-6">
                         <h6>since 1905</h6>
